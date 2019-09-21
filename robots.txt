@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://koejahshoo.rahell.de/sitemap.xml
